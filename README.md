@@ -11,7 +11,7 @@
  - [API for News Data](https://polygon.io/docs/stocks/get_v2_reference_news)
  - [Stock Price Data](https://finance.yahoo.com/quote/AAPL/history/)
 
-## 2 strategies for estimating portfolio returns on the model performance :   
+## 2 strategies for estimating portfolio returns based on the model performance :   
 
 ### Strategy 1 :  
 
