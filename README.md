@@ -4,7 +4,7 @@
 - Conducted stock sentiment analysis to estimate portfolio returns based on predicted buy/sell signals on a balanced dataset of stock news.
 - Performed text cleaning like stopword removal and lemmatization.
 - Preprocessed the text by employing Word2Vec for feature extraction, leveraging the Google News 300 model.
-- Trained Support Vector Machine (SVM) model with hyperparameters fine tuned through Grid Search CV, achieving an accuracy of 68.8% and a F1 score of 61.9%.
+- Trained Support Vector Machine (SVM) model with hyperparameters fine tuned through Grid Search CV on validation set, achieving an accuracy of 68.8% and a F1 score of 61.9%.
 - Assessed model performance through intraday trading, achieving a portfolio profit of $205.9 and a Sharpe ratio of 0.187.
   
 ### Data Resources
