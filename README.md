@@ -68,8 +68,8 @@ The rationale behind this strategy is that the stock price movement is influence
 ## Deployment
 
 To view the analysis of this project, run the following files respectively as mentioned :  
--> For Stock Sentiment Analysis : **Sentiment-Analysis.ipynb**  
--> For Price Prediction : **Price-Prediction.ipynb**
+- For Stock Sentiment Analysis : **Sentiment-Analysis.ipynb**  
+- For Price Prediction : **Price-Prediction.ipynb**
 
 
 
